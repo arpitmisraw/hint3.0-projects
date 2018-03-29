@@ -223,3 +223,19 @@ div.card.show div.flap2 {
   -webkit-transition: all 0.3s 0.2s ease-out;
   transition: all 0.3s 0.2s ease-out;
 }
+
+
+.footer{
+  margin-top: 40px;
+  color: white;
+  font-size: 20px;
+  border-top: 2px solid white;
+  padding-top: 40px;
+  letter-spacing: 8px;
+  font-weight: 550;
+}
+
+.footer-img{
+  position: relative;
+  top: 13px;
+}
