@@ -15,6 +15,8 @@ body {
   text-align: center;
 }
 
+
+
 .projects{
   color: white;
   font-size: 30px;
@@ -29,6 +31,15 @@ body {
 h2{
   text-align: center;
 }
+
+h2{
+  color: #3a2969;
+}
+
+h2 .description .description-text{
+  color: rgb(41, 41, 41);
+}
+
 .btn {
   background: #0096a0;
   border-radius: 4px;
